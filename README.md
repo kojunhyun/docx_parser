@@ -22,7 +22,7 @@ fc-cache -fv
 
 ### 2. 실행 방법
 ```
-./vl_.sh
+./vl_model.sh
 ```
 
 ```
