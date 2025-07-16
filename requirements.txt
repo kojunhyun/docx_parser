@@ -3,3 +3,4 @@ pillow
 pdfplumber
 langchain-openai
 pydantic
+vllm
