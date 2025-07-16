@@ -1,6 +1,6 @@
 
 ### 1. 설치 방법
-#### - requirements.txt 기반 환경 설치 안내
+#### - requirements.txt 기반 환경 설치 안내(Linux 기반)
 ##### (1) 가상환경 생성
 
 ```
