@@ -22,6 +22,10 @@ fc-cache -fv
 
 ### 2. 실행 방법
 ```
+./vl_.sh
+```
+
+```
 python docx_parser.py \
 --data_path /path/to/input.docx \
 --output_path /path/to/output_dir
