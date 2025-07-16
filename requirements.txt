@@ -1,0 +1,5 @@
+python-docx
+pillow
+pdfplumber
+langchain-openai
+pydantic
