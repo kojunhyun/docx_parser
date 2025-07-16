@@ -1,5 +1,3 @@
-# docx_parser
-DOCX 문서에서 텍스트, 표, 이미지 추출 및 JSON/Markdown 저장
 
 ### 1. 설치 방법
 #### - requirements.txt 기반 환경 설치 안내
@@ -10,9 +8,16 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-##### (2) 가상환경 생성
+##### (2) requirements 설치
 ```
 pip install -r requirements.txt
+```
+
+##### (3) libreoffice 및 한글 폰트
+```
+apt-get update
+apt-get install -y libreoffice fonts-noto fonts-nanum locales
+fc-cache -fv
 ```
 
 ### 2. 실행 방법
